@@ -80,7 +80,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>aws_demo</finalName>
+		<finalName>springboot-githubactions</finalName>
 	</build>
 
 </project>
